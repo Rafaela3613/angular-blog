@@ -20,6 +20,15 @@ align-items: center;
   margin-top: 15px;
 }
 
+.content-title > h1 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-top: 20px;
+}
+
 .content-description > p {
   color: rgb(198, 197, 197);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
 }
